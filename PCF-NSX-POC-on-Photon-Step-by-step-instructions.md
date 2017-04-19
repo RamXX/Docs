@@ -6,6 +6,8 @@
 - 4 GB of RAM available
 - 20 GB of disk space
 - Internet connection
+- vSphere lab with 3 clusters available
+- NSX-V installed and NSX Manager accessible
 
 ## Process
 ### Environment preparation
